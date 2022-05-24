@@ -1,0 +1,14 @@
+{
+    "name": "risted/curl",
+    "description": "Curl class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RisteDimitrievski",
+            "email": "ristedimitrievski23@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
